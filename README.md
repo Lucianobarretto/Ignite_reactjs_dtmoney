@@ -2,6 +2,12 @@
 
 <h2 align="center">dt.money - Primeira aplicação web com ReactJS (Rocketseat)</h2>
 
+<p align="center">
+  <kbd><img align="center" src="dt.money.jpg" alt="Tela do App dt.money" width="700"/></kbd>
+</p>
+
+#
+
 <h3 align="center">#Turma_01 - Front-end Developer N/A0110629</h3>
 
 <p align="center">

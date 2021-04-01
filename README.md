@@ -30,7 +30,7 @@
 
 
 <p align="center">  
-  <a href="https://github.com/Lucianobarretto/Ignite_reactjs_dtmoney/blob/master/LICENSE.md">
+  <a href="https://github.com/Lucianobarretto/Ignite_reactjs_dtmoney/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-orange">
   </a>
 </p>
